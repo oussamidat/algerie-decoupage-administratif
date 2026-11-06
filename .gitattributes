@@ -1,0 +1,4 @@
+*.pdf binary
+*.gpkg binary
+*.csv text eol=lf
+*.geojson text eol=lf
