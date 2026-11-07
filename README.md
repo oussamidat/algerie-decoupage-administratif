@@ -41,7 +41,6 @@ algeria-admin-boundaries/
 ├── data/
 │   ├── communes/              ← 1 541 communes (couche principale)
 │   ├── daira_actuelle/        ← daïras actuelles (agrégation des communes)
-│   ├── daira_1991/            ← daïras du décret 91-306
 │   ├── wilaya_1984/           ← 48 wilayas
 │   ├── wilaya_2019/           ← 58 wilayas
 │   └── wilaya_2026/           ← 69 wilayas

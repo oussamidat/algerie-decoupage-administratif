@@ -1,0 +1,546 @@
+id,LbDaira,LbDaira_AR,LbChefLieuDaira,CdWilaya_1984,LbWilaya_1984,CdWilaya_2019,LbWilaya_2019,CdWilaya_2026,LbWilaya_2026
+"1",Theniet El Abed,ثنية العابد,Teniet El Abed,"05",BATNA,"05",BATNA,"05",BATNA
+"2",Haddada,الحدادة,Haddada,"41",SOUK AHRAS,"41",SOUK AHRAS,"41",SOUK AHRAS
+"3",Ahmar El Ain,أحمر العين,Ahmer El Aïn,"42",TIPAZA,"42",TIPAZA,"42",TIPAZA
+"4",Tipaza,تيبازة,Tipaza,"42",TIPAZA,"42",TIPAZA,"42",TIPAZA
+"5",Ain Oulmene,عين ولمان,Aïn Oulmane,"19",SETIF,"19",SETIF,"19",SETIF
+"6",Sidi Marouf,سيدي معروف,Sidi Maarouf,"18",JIJEL,"18",JIJEL,"18",JIJEL
+"7",Chetouane,شتوان,Chetouane,"13",TLEMCEN,"13",TLEMCEN,"13",TLEMCEN
+"8",Souk Naamane,سوق نعمان,Souk Naamane,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI
+"9",Ghriss,غريس,Ghriss,"29",MASCARA,"29",MASCARA,"29",MASCARA
+"10",El Kala,القالة,El Kala,"36",EL TARF,"36",EL TARF,"36",EL TARF
+"11",Sidi Khouiled,سيدي خويلد,Sidi Khouiled,"30",OUARGLA,"30",OUARGLA,"30",OUARGLA
+"12",Temacine,تماسين,Tamacine,"30",OUARGLA,"55",TOUGGOURT,"55",TOUGGOURT
+"13",Ain Makhlouf,عين مخلوف,Ain Makhlouf,"24",GUELMA,"24",GUELMA,"24",GUELMA
+"14",Settara,السطارة,Settara,"18",JIJEL,"18",JIJEL,"18",JIJEL
+"15",Dar El Beida,الدار البيضاء,Dar El Beïda,"16",ALGER,"16",ALGER,"16",ALGER
+"16",Mechroha,المشروحة,Mechroha,"41",SOUK AHRAS,"41",SOUK AHRAS,"41",SOUK AHRAS
+"17",Rouina,الروينة,Rouina,"44",AIN DEFLA,"44",AIN DEFLA,"44",AIN DEFLA
+"18",Bab El Oued,باب الوادي,Bab El Oued,"16",ALGER,"16",ALGER,"16",ALGER
+"19",Zeboudja,الزبوجة,Zeboudja,"02",CHLEF,"02",CHLEF,"02",CHLEF
+"20",Larbaa Nath Iraten,الأربعاء ناث إيراثن,Larbaa N'Aït Irathen,"15",TIZI OUZOU,"15",TIZI OUZOU,"15",TIZI OUZOU
+"39",Timimoun,تيميمون,Timimoun,"01",ADRAR,"49",TIMIMOUN,"49",TIMIMOUN
+"40",Djelida,جليدة,Djelida,"44",AIN DEFLA,"44",AIN DEFLA,"44",AIN DEFLA
+"41",Hammam Debagh,حمام دباغ,Hammam Debagh,"24",GUELMA,"24",GUELMA,"24",GUELMA
+"42",Ain Touila,عين الطويلة,Aïn Touila,"40",KHENCHELA,"40",KHENCHELA,"40",KHENCHELA
+"43",Ouled Rechache,أولاد رشاش,Ouled Rechache,"40",KHENCHELA,"40",KHENCHELA,"40",KHENCHELA
+"44",Mekla,مقلع,Mekla,"15",TIZI OUZOU,"15",TIZI OUZOU,"15",TIZI OUZOU
+"45",Khemis,خميس,Khemis Milana,"44",AIN DEFLA,"44",AIN DEFLA,"44",AIN DEFLA
+"46",Mohammadia,المحمدية,Mohammadia,"29",MASCARA,"29",MASCARA,"29",MASCARA
+"21",El-Hadjira,الحجيرة,El Hadjira,"30",OUARGLA,"55",TOUGGOURT,"55",TOUGGOURT
+"76",Draria,الدرارية,Draria,"42",TIPAZA,"16",ALGER,"16",ALGER
+"117",Debila,الدبيلة,Debila,"39",EL OUED,"39",EL OUED,"39",EL OUED
+"118",Sigus,سيقوس,Sigus,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI
+"165",Khezaras,خزارة,Khezara,"24",GUELMA,"24",GUELMA,"24",GUELMA
+"166",Mostefa Ben Brahim,مصطفى بن ابراهيم,Mostefa Ben Brahim,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES
+"167",Seghouane,سغوان,Seghouane,"26",MEDEA,"26",MEDEA,"26",MEDEA
+"168",Sour El Ghozlane,سور الغزلان,Sour El Ghozlane,"10",BOUIRA,"10",BOUIRA,"10",BOUIRA
+"169",Ain Turk,عين الترك,Aïn El Türck,"31",ORAN,"31",ORAN,"31",ORAN
+"22",Kerzaz,كرزاز,Kerzaz,"08",BECHAR,"52",BENI ABBES,"52",BENI ABBES
+"23",Ichemoul,إشمول,Ichmoul,"05",BATNA,"05",BATNA,"05",BATNA
+"24",Souk El Khemis,سوق الخميس,Souk El Khemis,"10",BOUIRA,"10",BOUIRA,"10",BOUIRA
+"25",Tebessa,تبسة,Tébessa,"12",TEBESSA,"12",TEBESSA,"12",TEBESSA
+"26",Es Senia,السانية,Es Senia,"31",ORAN,"31",ORAN,"31",ORAN
+"27",Sfisef,سفيزف,Sfisef,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES
+"126",El Kseur,القصر,El Kseur,"06",BEJAIA,"06",BEJAIA,"06",BEJAIA
+"127",Sidi Ali,سيدي علي,Sidi Ali,"27",MOSTAGANEM,"27",MOSTAGANEM,"27",MOSTAGANEM
+"128",Djidiouia,جديوية,Djdiouia,"48",RELIZANE,"48",RELIZANE,"48",RELIZANE
+"129",Ben Srour,بن سرور,Ben Srour,"28",M'SILA,"28",M'SILA,"68",BOU SAADA
+"130",El Milia,الميلية,El Milia,"18",JIJEL,"18",JIJEL,"18",JIJEL
+"131",Sidi Aich,سيدي عيش,Sidi-Aïch,"06",BEJAIA,"06",BEJAIA,"06",BEJAIA
+"132",Ain Taghrout,عين تاغروت,Aïn Taghrout,"34",BORDJ BOU ARRERIDJ,"34",BORDJ BOU ARRERIDJ,"34",BORDJ BOU ARRERIDJ
+"170",Chelghoum Laid,شلغوم العيد,Chelghoum Laïd,"43",MILA,"43",MILA,"43",MILA
+"171",Bab El Assa,باب العسة,Bab El Assa,"13",TLEMCEN,"13",TLEMCEN,"13",TLEMCEN
+"172",Amizour,أميزور,Amizour,"06",BEJAIA,"06",BEJAIA,"06",BEJAIA
+"173",Babar,بابار,Babar,"40",KHENCHELA,"40",KHENCHELA,"40",KHENCHELA
+"28",Djamaa,جامعة,Djamaa,"39",EL OUED,"57",EL M'GHAIR,"57",EL M'GHAIR
+"29",Hammam Guergour,حمام قرقور,Hammam Guergour,"19",SETIF,"19",SETIF,"19",SETIF
+"30",M'sila,المسيلة,M’Sila,"28",M'SILA,"28",M'SILA,"28",M'SILA
+"31",Aouf,عوف,Aouf,"29",MASCARA,"29",MASCARA,"29",MASCARA
+"32",Kheir Eddine,خير الدين,Kheireddine,"27",MOSTAGANEM,"27",MOSTAGANEM,"27",MOSTAGANEM
+"33",El Hadjar,الحجار,El Hadjar,"23",ANNABA,"23",ANNABA,"23",ANNABA
+"34",Honnaine,هنين,Honaïne,"13",TLEMCEN,"13",TLEMCEN,"13",TLEMCEN
+"35",El Hamma,الحامة,El Hamma,"40",KHENCHELA,"40",KHENCHELA,"40",KHENCHELA
+"36",Beni Boussaid,بني بوسعيد,Béni Boussaïd,"13",TLEMCEN,"13",TLEMCEN,"13",TLEMCEN
+"37",Adrar,أدرار,Adrar,"01",ADRAR,"01",ADRAR,"01",ADRAR
+"38",Bir Mourad Rais,بئر مراد رايس,Bir Mourad Raïs,"16",ALGER,"16",ALGER,"16",ALGER
+"147",Ain El Hadjel,عين الحجل,Aïn El Hadjel,"28",M'SILA,"28",M'SILA,"28",M'SILA
+"148",Skikda,سكيكدة,Skikda,"21",SKIKDA,"21",SKIKDA,"21",SKIKDA
+"47",El Harrach,الحراش,El Harrach,"16",ALGER,"16",ALGER,"16",ALGER
+"48",El Harrouch,الحروش,El Harrouche,"21",SKIKDA,"21",SKIKDA,"21",SKIKDA
+"49",Azeffoun,أزفون,Azeffoun,"15",TIZI OUZOU,"15",TIZI OUZOU,"15",TIZI OUZOU
+"50",In Guezzam,عين قزام,In Guezzam,"11",TAMANRASSET,"54",IN GUEZZAM,"54",IN GUEZZAM
+"51",Zeralda,زرالدة,Zeralda,"42",TIPAZA,"16",ALGER,"16",ALGER
+"52",Grarem Gouga,القرارم قوقة,Grarem Gouga,"43",MILA,"43",MILA,"43",MILA
+"53",El Amra,العامرة,El Amra,"44",AIN DEFLA,"44",AIN DEFLA,"44",AIN DEFLA
+"54",El Ancer,العنصر,El Ancer,"18",JIJEL,"18",JIJEL,"18",JIJEL
+"55",Sidi Mezghiche,سيدي مزغيش,Sidi Mezghiche,"21",SKIKDA,"21",SKIKDA,"21",SKIKDA
+"56",Ouacif,واسيف,Ouacif,"15",TIZI OUZOU,"15",TIZI OUZOU,"15",TIZI OUZOU
+"57",Bir El Ater,بئر العاتر,Bir El Ater,"12",TEBESSA,"12",TEBESSA,"62",BIR EL ATER
+"58",Ain El Ibel,عين الإبل,Aïn El Ibel,"17",DJELFA,"17",DJELFA,"17",DJELFA
+"59",Saida,سعيدة,Saïda,"20",SAIDA,"20",SAIDA,"20",SAIDA
+"60",Djelfa,الجلفة,Djelfa,"17",DJELFA,"17",DJELFA,"17",DJELFA
+"61",Ramdane Djamel,رمضان جمال,Ramdane Djamel,"21",SKIKDA,"21",SKIKDA,"21",SKIKDA
+"62",Bir Mokadem,بئر مقدم,Bir Mokkadem,"12",TEBESSA,"12",TEBESSA,"12",TEBESSA
+"63",Marsa Ben Mehdi,مرسى بن مهيدي,Marsa Ben M’Hidi,"13",TLEMCEN,"13",TLEMCEN,"13",TLEMCEN
+"64",Boghni,بوغني,Boghni,"15",TIZI OUZOU,"15",TIZI OUZOU,"15",TIZI OUZOU
+"65",Ain Bessem,عين بسام,Aïn Bessam,"10",BOUIRA,"10",BOUIRA,"10",BOUIRA
+"66",Ouadhias,واضية,Ouadhia,"15",TIZI OUZOU,"15",TIZI OUZOU,"15",TIZI OUZOU
+"67",Berrahal,برحال,Berrahal,"23",ANNABA,"23",ANNABA,"23",ANNABA
+"68",Oued Rhiou,وادي رهيو,Oued Rhiou,"48",RELIZANE,"48",RELIZANE,"48",RELIZANE
+"69",Bouguirat,بوقيراط,Bouguirat,"27",MOSTAGANEM,"27",MOSTAGANEM,"27",MOSTAGANEM
+"70",Ain Oussera,عين وسارة,Aïn Ouessara,"17",DJELFA,"17",DJELFA,"65",AIN OUESSARA
+"71",El Affroun,العفرون,El Affroun,"09",BLIDA,"09",BLIDA,"09",BLIDA
+"149",Ain El Berda,عين الباردة,Aïn Berda,"23",ANNABA,"23",ANNABA,"23",ANNABA
+"150",El Bouni,البوني,El Bouni,"23",ANNABA,"23",ANNABA,"23",ANNABA
+"151",Theniet El Had,ثنية الاحد,Theniet El Had,"38",TISSEMSILT,"38",TISSEMSILT,"38",TISSEMSILT
+"152",Mahdia,مهدية,Mahdia,"14",TIARET,"14",TIARET,"14",TIARET
+"153",El Eulma,العلمة,El Eulma,"19",SETIF,"19",SETIF,"19",SETIF
+"174",Beni Ourtilane,بني ورتيلان,Beni Ouartilane,"19",SETIF,"19",SETIF,"19",SETIF
+"175",Bethioua,بطيوة,Bethioua,"31",ORAN,"31",ORAN,"31",ORAN
+"72",Baraki,براقي,Baraki,"16",ALGER,"16",ALGER,"16",ALGER
+"73",Charef,الشارف,Charef,"17",DJELFA,"17",DJELFA,"17",DJELFA
+"74",Moulay Slissen,مولاي سليسن,Moulay Slissen,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES
+"75",Souaghi,السواقي,Souagui,"26",MEDEA,"26",MEDEA,"26",MEDEA
+"77",Moghrar,مغرار,Moghrar,"45",NAAMA,"45",NAAMA,"45",NAAMA
+"87",Sidi Bel Abbes,سيدي بلعباس,Sidi Bel Abbès,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES
+"88",Boutlelis,بوتليليس,Boutlelis,"31",ORAN,"31",ORAN,"31",ORAN
+"89",Meftah,مفتاح,Meftah,"09",BLIDA,"09",BLIDA,"09",BLIDA
+"90",Bougaa,بوقاعة,Bougaa,"19",SETIF,"19",SETIF,"19",SETIF
+"91",Had Sahary,حد الصحاري,Had Sahary,"17",DJELFA,"17",DJELFA,"65",AIN OUESSARA
+"78",N'goussa,انقوسة,N'Goussa,"30",OUARGLA,"30",OUARGLA,"30",OUARGLA
+"79",Tadjenanet,تاجنانت,Tadjenanet,"43",MILA,"43",MILA,"43",MILA
+"80",Ain Deheb,عين الذهب,Aïn Deheb,"14",TIARET,"14",TIARET,"14",TIARET
+"81",Yellel,يلل,Yellel,"48",RELIZANE,"48",RELIZANE,"48",RELIZANE
+"82",Sidi Djillali,سيدي الجيلالي,Sidi Djillali,"13",TLEMCEN,"13",TLEMCEN,"63",EL ARICHA
+"83",Chechar,ششار,Chechar,"40",KHENCHELA,"40",KHENCHELA,"40",KHENCHELA
+"84",Mazouna,مازونة,Mazouna,"48",RELIZANE,"48",RELIZANE,"48",RELIZANE
+"85",Jijel,جيجل,Jijel,"18",JIJEL,"18",JIJEL,"18",JIJEL
+"86",Ouzera,وزرة,Ouzera,"26",MEDEA,"26",MEDEA,"26",MEDEA
+"92",Bouhadjar,بوحجار,Bouhadjar,"36",EL TARF,"36",EL TARF,"36",EL TARF
+"93",Beni Aziz,بني عزيز,Beni Aziz,"19",SETIF,"19",SETIF,"19",SETIF
+"94",Tazmalt,تازملت,Tazmalt,"06",BEJAIA,"06",BEJAIA,"06",BEJAIA
+"95",Sidi Okba,سيدي عقبة,Sidi Okba,"07",BISKRA,"07",BISKRA,"07",BISKRA
+"96",Ben Azzouz,بن عزوز,Ben Azouz,"21",SKIKDA,"21",SKIKDA,"21",SKIKDA
+"97",Hussein Dey,حسين داي,Hussein Dey,"16",ALGER,"16",ALGER,"16",ALGER
+"98",Haizer,الحيزر,Haizer,"10",BOUIRA,"10",BOUIRA,"10",BOUIRA
+"99",Zahana,زهانة,Zahana,"29",MASCARA,"29",MASCARA,"29",MASCARA
+"100",Kadiria,القادرية,Kadiria,"10",BOUIRA,"10",BOUIRA,"10",BOUIRA
+"101",Ain El Hadjar,عين الحجر,Aïn El Hadjar,"20",SAIDA,"20",SAIDA,"20",SAIDA
+"102",Guidjel,قجال,Guidjel,"19",SETIF,"19",SETIF,"19",SETIF
+"158",Beni Haoua,بني حواء,Beni Haoua,"02",CHLEF,"02",CHLEF,"02",CHLEF
+"159",Bordj Ghedir,برج الغدير,Bordj Ghedir,"34",BORDJ BOU ARRERIDJ,"34",BORDJ BOU ARRERIDJ,"34",BORDJ BOU ARRERIDJ
+"103",Naama,النعامة,Naâma,"45",NAAMA,"45",NAAMA,"45",NAAMA
+"104",Ouled Antar,أولاد عنتر,Ouled Antar,"26",MEDEA,"26",MEDEA,"67",KSAR EL BOUKHARI
+"105",Hammam N'bails,حمام النبايل,Hammam Nbail,"24",GUELMA,"24",GUELMA,"24",GUELMA
+"106",Akbou,أقبو,Akbou,"06",BEJAIA,"06",BEJAIA,"06",BEJAIA
+"107",Berrouaghia,البرواقية,Berrouaghia,"26",MEDEA,"26",MEDEA,"26",MEDEA
+"108",Tissemsilt,تيسمسيلت,Tissemsilt,"38",TISSEMSILT,"38",TISSEMSILT,"38",TISSEMSILT
+"109",Brezina,بريزينة,Brézina,"32",EL BAYADH,"32",EL BAYADH,"32",EL BAYADH
+"110",Hammam Sokhna,حمام السخنة,Hammam Sokhna,"19",SETIF,"19",SETIF,"19",SETIF
+"111",N'gaous,نقاوس,N’Gaous,"05",BATNA,"05",BATNA,"05",BATNA
+"112",Ouled Driss,أولاد إدريس,Ouled Driss,"41",SOUK AHRAS,"41",SOUK AHRAS,"41",SOUK AHRAS
+"113",Zaouiat Kounta,زاوية كنتة,Zaouiet Kounta,"01",ADRAR,"01",ADRAR,"01",ADRAR
+"114",Hennaya,الحناية,Hennaya,"13",TLEMCEN,"13",TLEMCEN,"13",TLEMCEN
+"115",Ouled Si Slimane,أولاد سي سليمان,Ouled Si Slimane,"05",BATNA,"05",BATNA,"05",BATNA
+"116",Ouled Ben Abdelkader,أولاد بن عبد القادر,Ouled Ben Abdelkader,"02",CHLEF,"02",CHLEF,"02",CHLEF
+"160",Damous,الداموس,Damous,"42",TIPAZA,"42",TIPAZA,"42",TIPAZA
+"119",Taghit,تاغيت,Taghit,"08",BECHAR,"08",BECHAR,"08",BECHAR
+"120",Brida,بريدة,Brida,"03",LAGHOUAT,"03",LAGHOUAT,"59",AFLOU
+"121",El Kouif,الكويف,El Kouif,"12",TEBESSA,"12",TEBESSA,"12",TEBESSA
+"122",Tenira,تنيرة,Ténira,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES
+"123",Mih Ouensa,اميه وانسة,Mih Ouensa,"39",EL OUED,"39",EL OUED,"39",EL OUED
+"124",Azazga,عزازقة,Azazga,"15",TIZI OUZOU,"15",TIZI OUZOU,"15",TIZI OUZOU
+"125",Aziz,عزيز,Aziz,"26",MEDEA,"26",MEDEA,"67",KSAR EL BOUKHARI
+"133",Bir El Djir,بئر الجير,Bir El Djir,"31",ORAN,"31",ORAN,"31",ORAN
+"134",Tichy,تيشي,Tichy,"06",BEJAIA,"06",BEJAIA,"06",BEJAIA
+"188",Seriana,سريانة,Seriana,"05",BATNA,"05",BATNA,"05",BATNA
+"189",Ksar Chellala,قصر الشلالة,Ksar Chellala,"14",TIARET,"14",TIARET,"64",KSAR CHELLALA
+"190",Remchi,الرمشي,Remchi,"13",TLEMCEN,"13",TLEMCEN,"13",TLEMCEN
+"191",Silet,سيلت,Abalessa,"11",TAMANRASSET,"11",TAMANRASSET,"11",TAMANRASSET
+"192",Bordj Badji Mokhtar,برج باجي مختار,Bordj Badji Mokhtar,"01",ADRAR,"50",BORDJ BADJI MOKHTAR,"50",BORDJ BADJI MOKHTAR
+"193",Hadjout,حجوط,Hadjout,"42",TIPAZA,"42",TIPAZA,"42",TIPAZA
+"135",Guemar,قمار,Guemar,"39",EL OUED,"39",EL OUED,"39",EL OUED
+"136",Gueltat Sidi Saad,قتلة سيدي سعيد,Gueltat Sidi Saad,"03",LAGHOUAT,"03",LAGHOUAT,"59",AFLOU
+"137",Bouinan,بوعينان,Bouinan,"09",BLIDA,"09",BLIDA,"09",BLIDA
+"138",Texenna,تاكسنة,Texenna,"18",JIJEL,"18",JIJEL,"18",JIJEL
+"161",Boussemghoun,بوسمغون,Boussemghoun,"32",EL BAYADH,"32",EL BAYADH,"69",EL ABIODH SIDI CHEIKH
+"162",Bousaada,بوسعادة,Bou Saada,"28",M'SILA,"28",M'SILA,"68",BOU SAADA
+"163",Sidi Lahcene,سيدي لحسن,Sidi Lahcene,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES
+"164",Mechouneche,مشونش,M’Chounèche,"07",BISKRA,"07",BISKRA,"07",BISKRA
+"139",Bounoura,بونورة,Bounoura,"47",GHARDAIA,"47",GHARDAIA,"47",GHARDAIA
+"140",Bouhmama,بوحمامة,Bouhmama,"40",KHENCHELA,"40",KHENCHELA,"40",KHENCHELA
+"141",Gouraya,قوراية,Gouraya,"42",TIPAZA,"42",TIPAZA,"42",TIPAZA
+"142",Djezzar,الجزار,Djezzar,"05",BATNA,"05",BATNA,"60",BARIKA
+"143",Ouargla,ورقلة,Ouargla,"30",OUARGLA,"30",OUARGLA,"30",OUARGLA
+"144",Maoklane,ماوكلان,Maoklane,"19",SETIF,"19",SETIF,"19",SETIF
+"145",Si Mahdjoub,سي المحجوب,Si Mahdjoub,"26",MEDEA,"26",MEDEA,"26",MEDEA
+"146",Bougara,بوقرة,Bougara,"09",BLIDA,"09",BLIDA,"09",BLIDA
+"154",Ourlal,أورلال,Ourlal,"07",BISKRA,"07",BISKRA,"07",BISKRA
+"155",Aoulef,أولف,Aoulef,"01",ADRAR,"01",ADRAR,"01",ADRAR
+"156",Taoura,تاورة,Taoura,"41",SOUK AHRAS,"41",SOUK AHRAS,"41",SOUK AHRAS
+"157",Bir Kasdali,بئر قاصد علي,Bir Kasdali,"34",BORDJ BOU ARRERIDJ,"34",BORDJ BOU ARRERIDJ,"34",BORDJ BOU ARRERIDJ
+"176",Charouine,شروين,Charouine,"01",ADRAR,"49",TIMIMOUN,"49",TIMIMOUN
+"177",El Guerrara,القرارة,El Guerrara,"47",GHARDAIA,"47",GHARDAIA,"47",GHARDAIA
+"178",Setif,سطيف,Sétif,"19",SETIF,"19",SETIF,"19",SETIF
+"179",Sidi M'hamed,سيدي امحمد,Sidi M'Hamed,"16",ALGER,"16",ALGER,"16",ALGER
+"180",Bordj Bounaama,برج بونعامة,Bordj Bou Naama,"38",TISSEMSILT,"38",TISSEMSILT,"38",TISSEMSILT
+"181",Ain Tarek,عين طارق,Aïn Tarek,"48",RELIZANE,"48",RELIZANE,"48",RELIZANE
+"182",Kolea,القليعة,Kolea,"42",TIPAZA,"42",TIPAZA,"42",TIPAZA
+"183",Ouled Yaich,أولاد يعيش,Ouled Yaïch,"09",BLIDA,"09",BLIDA,"09",BLIDA
+"184",Ouled Mimoun,أولاد ميمون,Ouled Mimoun,"13",TLEMCEN,"13",TLEMCEN,"13",TLEMCEN
+"185",Dellys,دلس,Dellys,"35",BOUMERDES,"35",BOUMERDES,"35",BOUMERDES
+"186",El Maleh,المالح,El Mallah,"46",AIN TEMOUCHENT,"46",AIN TEMOUCHENT,"46",AIN TEMOUCHENT
+"187",Ramka,الرمكة,Ramka,"48",RELIZANE,"48",RELIZANE,"48",RELIZANE
+"194",Tlemcen,تلمسان,Tlemcen,"13",TLEMCEN,"13",TLEMCEN,"13",TLEMCEN
+"195",Frenda,فرندة,Frenda,"14",TIARET,"14",TIARET,"14",TIARET
+"196",Tessala,تسالة,Tessala,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES
+"197",Ain El Kebira,عين الكبيرة,Aïn El Kebira,"19",SETIF,"19",SETIF,"19",SETIF
+"198",Oum Toub,أم الطوب,Oum Toub,"21",SKIKDA,"21",SKIKDA,"21",SKIKDA
+"199",Ouled Brahim,أولاد ابراهيم,Ouled Brahim,"20",SAIDA,"20",SAIDA,"20",SAIDA
+"200",Ain Larbaa,عين الأربعاء,Ain El Arbaa,"46",AIN TEMOUCHENT,"46",AIN TEMOUCHENT,"46",AIN TEMOUCHENT
+"201",Lazharia,الأزهرية,Lazharia,"38",TISSEMSILT,"38",TISSEMSILT,"38",TISSEMSILT
+"202",Ain Nouicy,عين نويسي,Aïn Nouïssy,"27",MOSTAGANEM,"27",MOSTAGANEM,"27",MOSTAGANEM
+"203",Merine,مرين,Merine,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES
+"225",Touggourt,تقرت,Touggourt,"30",OUARGLA,"55",TOUGGOURT,"55",TOUGGOURT
+"226",Boufarik,بوفاريك,Boufarik,"09",BLIDA,"09",BLIDA,"09",BLIDA
+"227",Ghazaouet,الغزوات,Ghazaouet,"13",TLEMCEN,"13",TLEMCEN,"13",TLEMCEN
+"228",Chekfa,الشقفة,Chekfa,"18",JIJEL,"18",JIJEL,"18",JIJEL
+"229",Magra,مقرة,Magra,"28",M'SILA,"28",M'SILA,"28",M'SILA
+"230",Ain M'lila,عين مليلة,Ain M'lila,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI
+"231",Chlef,الشلف,Chlef,"02",CHLEF,"02",CHLEF,"02",CHLEF
+"232",El Marsa,المرسى,El Marsa,"02",CHLEF,"02",CHLEF,"02",CHLEF
+"233",Boudouaou,بودواو,Boudouaou,"35",BOUMERDES,"35",BOUMERDES,"35",BOUMERDES
+"234",Boumedfaa,بومدفع,Boumedfaa,"44",AIN DEFLA,"44",AIN DEFLA,"44",AIN DEFLA
+"235",Ain Defla,عين الدفلى,Aïn Defla,"44",AIN DEFLA,"44",AIN DEFLA,"44",AIN DEFLA
+"236",Ain Arnat,عين أرنات,Aïn Arnat,"19",SETIF,"19",SETIF,"19",SETIF
+"237",Ben M'hidi,بن مهيدي,Ben M'Hidi,"36",EL TARF,"36",EL TARF,"36",EL TARF
+"204",Beni Abbes,بني عباس,Béni Abbès,"08",BECHAR,"52",BENI ABBES,"52",BENI ABBES
+"205",Larbaa,الأربعاء,Larbâa,"09",BLIDA,"09",BLIDA,"09",BLIDA
+"238",Hamadia,حمادية,Hamadia,"14",TIARET,"14",TIARET,"64",KSAR CHELLALA
+"239",El Outaya,الوطاية,El Outaya,"07",BISKRA,"07",BISKRA,"61",EL KANTARA
+"240",Mekmen Ben Amar,مكمن بن عمار,Makman Ben Ammar,"45",NAAMA,"45",NAAMA,"45",NAAMA
+"241",El Kantara,القنطرة,El Kantara,"07",BISKRA,"07",BISKRA,"61",EL KANTARA
+"242",Chellal,شلال,Chellal,"28",M'SILA,"28",M'SILA,"28",M'SILA
+"243",Mesra,ماسرة,Mesra,"27",MOSTAGANEM,"27",MOSTAGANEM,"27",MOSTAGANEM
+"244",Bordj El Emir Khaled,برج الأمير خالد,Bordj Emir Khaled,"44",AIN DEFLA,"44",AIN DEFLA,"44",AIN DEFLA
+"245",Sidi Boubekeur,سيدي بوبكر,Sidi Boubekeur,"20",SAIDA,"20",SAIDA,"20",SAIDA
+"246",Tizi Ouzou,تيزي وزو,Tizi Ouzou,"15",TIZI OUZOU,"15",TIZI OUZOU,"15",TIZI OUZOU
+"247",Babor,بابور,Babor,"19",SETIF,"19",SETIF,"19",SETIF
+"248",Boumerdes,بومرداس,Boumerdès,"35",BOUMERDES,"35",BOUMERDES,"35",BOUMERDES
+"249",El H'madna,الحمادنة,El Hamadna,"48",RELIZANE,"48",RELIZANE,"48",RELIZANE
+"250",Bayadha,البياضة,Bayadha,"39",EL OUED,"39",EL OUED,"39",EL OUED
+"251",Ras El Oued,رأس الوادي,Ras El Oued,"34",BORDJ BOU ARRERIDJ,"34",BORDJ BOU ARRERIDJ,"34",BORDJ BOU ARRERIDJ
+"252",Zitouna,الزيتونة,Zitouna,"21",SKIKDA,"21",SKIKDA,"21",SKIKDA
+"206",Sidi Ameur,سيدي عامر,Sidi Ameur,"28",M'SILA,"28",M'SILA,"68",BOU SAADA
+"207",El Madher,المعذر,Elmadher,"05",BATNA,"05",BATNA,"05",BATNA
+"253",Timgad,تيمقاد,Timgad,"05",BATNA,"05",BATNA,"05",BATNA
+"254",Oum El Adhaim,أم العظايم,Oum El Adhaim,"41",SOUK AHRAS,"41",SOUK AHRAS,"41",SOUK AHRAS
+"255",Tamalous,تمالوس,Tamalous,"21",SKIKDA,"21",SKIKDA,"21",SKIKDA
+"256",Benni Yenni,بني يني,Beni Yenni,"15",TIZI OUZOU,"15",TIZI OUZOU,"15",TIZI OUZOU
+"257",Ksar Sbahi,قصر الصباحي,Ksar Sbahi,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI
+"258",Ben Badis,بن باديس,Ben Badis,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES
+"259",Hassi Khalifa,حاسي خليفة,Hassi Khelifa,"39",EL OUED,"39",EL OUED,"39",EL OUED
+"260",Sidi Makhlouf,سيدي مخلوف,Sidi Makhlouf,"03",LAGHOUAT,"03",LAGHOUAT,"03",LAGHOUAT
+"208",Ouled Sidi Brahim,أولاد سيدي ابراهيم,Ouled Sidi Brahim,"28",M'SILA,"28",M'SILA,"68",BOU SAADA
+"209",El Bordj,البرج,El Bordj,"29",MASCARA,"29",MASCARA,"29",MASCARA
+"210",Beni Douala,بني دوالة,Beni Douala,"15",TIZI OUZOU,"15",TIZI OUZOU,"15",TIZI OUZOU
+"261",Ouenza,الونزة,Ouenza,"12",TEBESSA,"12",TEBESSA,"12",TEBESSA
+"262",Ras El Aioun,رأس العيون,Ras El Aïoun,"05",BATNA,"05",BATNA,"05",BATNA
+"263",Bougtoub,بوقطب,Bougtob,"32",EL BAYADH,"32",EL BAYADH,"32",EL BAYADH
+"264",El Ogla,العقلة,El Ogla,"12",TEBESSA,"12",TEBESSA,"12",TEBESSA
+"211",Chellala,شلالة,Chellala,"32",EL BAYADH,"32",EL BAYADH,"69",EL ABIODH SIDI CHEIKH
+"212",M'daourouche,مداوروش,M'daourouch,"41",SOUK AHRAS,"41",SOUK AHRAS,"41",SOUK AHRAS
+"213",Ain Fekroun,عين فكرون,Aïn Fakroun,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI
+"214",Tazoult,تازولت,Tazoult,"05",BATNA,"05",BATNA,"05",BATNA
+"215",Medjana,مجانة,Medjana,"34",BORDJ BOU ARRERIDJ,"34",BORDJ BOU ARRERIDJ,"34",BORDJ BOU ARRERIDJ
+"216",Souk El Tenine,سوق الإثنين,Souk El Ténine,"06",BEJAIA,"06",BEJAIA,"06",BEJAIA
+"217",El Hadaiek,الحدائق,El Hadaik,"21",SKIKDA,"21",SKIKDA,"21",SKIKDA
+"218",Taher,الطاهير,Taher,"18",JIJEL,"18",JIJEL,"18",JIJEL
+"219",Khoubana,خبانة,Khoubana,"28",M'SILA,"28",M'SILA,"68",BOU SAADA
+"220",Bouhanifia,بوحنيفية,Bouhanifia,"29",MASCARA,"29",MASCARA,"29",MASCARA
+"221",Ain Azel,عين أزال,Aïn Azal,"19",SETIF,"19",SETIF,"19",SETIF
+"222",Hammam Bou Hadjar,حمام بوحجر,Hammam Bou Hadjar,"46",AIN TEMOUCHENT,"46",AIN TEMOUCHENT,"46",AIN TEMOUCHENT
+"223",Bordj Bou Arreridj,برج بوعريريج,Bordj Bou Arreridj,"34",BORDJ BOU ARRERIDJ,"34",BORDJ BOU ARRERIDJ,"34",BORDJ BOU ARRERIDJ
+"224",El Hassasna,الحساسنة,El Hessasna,"20",SAIDA,"20",SAIDA,"20",SAIDA
+"265",Ghardaia,غرداية,Ghardaïa,"47",GHARDAIA,"47",GHARDAIA,"47",GHARDAIA
+"266",El Aouinet,العوينات,El Aouinet,"12",TEBESSA,"12",TEBESSA,"12",TEBESSA
+"267",Marhoum,مرحوم,Marhoum,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES
+"268",Tiaret,تيارت,Tiaret,"14",TIARET,"14",TIARET,"14",TIARET
+"269",Ain Boucif,عين بوسيف,Aïn Boucif,"26",MEDEA,"26",MEDEA,"67",KSAR EL BOUKHARI
+"270",Taibet,الطيبات,Taïbet,"30",OUARGLA,"55",TOUGGOURT,"55",TOUGGOURT
+"271",Collo,القل,Collo,"21",SKIKDA,"21",SKIKDA,"21",SKIKDA
+"272",Sedrata,سدراتة,Sedrata,"41",SOUK AHRAS,"41",SOUK AHRAS,"41",SOUK AHRAS
+"273",Ammari,عماري,Ammari Messouket,"38",TISSEMSILT,"38",TISSEMSILT,"38",TISSEMSILT
+"274",Youb,يوب,Youb,"20",SAIDA,"20",SAIDA,"20",SAIDA
+"275",Naciria,الناصرية,Naciria,"35",BOUMERDES,"35",BOUMERDES,"35",BOUMERDES
+"276",Labiodh Sidi Cheikh,الأبيض سيدي الشيخ,El Abiodh Sidi Cheikh,"32",EL BAYADH,"32",EL BAYADH,"69",EL ABIODH SIDI CHEIKH
+"302",Djebel Messaad,جبل مساعد,Djebel Messaad,"28",M'SILA,"28",M'SILA,"68",BOU SAADA
+"277",Khenchela,خنشلة,Khenchela,"40",KHENCHELA,"40",KHENCHELA,"40",KHENCHELA
+"278",El Azizia,العزيزية,Al Azizia,"26",MEDEA,"26",MEDEA,"26",MEDEA
+"279",Sougueur,السوقر,Sougueur,"14",TIARET,"14",TIARET,"14",TIARET
+"280",Seddouk,صدوق,Seddouk,"06",BEJAIA,"06",BEJAIA,"06",BEJAIA
+"281",Ain Madhi,عين ماضي,Aïn Madhi,"03",LAGHOUAT,"03",LAGHOUAT,"03",LAGHOUAT
+"282",Draa El Mizan,ذراع الميزان,Draâ El Mizan,"15",TIZI OUZOU,"15",TIZI OUZOU,"15",TIZI OUZOU
+"303",El Abadia,العبادية,El Abadia,"44",AIN DEFLA,"44",AIN DEFLA,"44",AIN DEFLA
+"304",Merouana,مروانة,Merouana,"05",BATNA,"05",BATNA,"05",BATNA
+"305",Bouteldja,بوثلجة,Bouteldja,"36",EL TARF,"36",EL TARF,"36",EL TARF
+"306",Cheria,الشريعة,Cheria,"12",TEBESSA,"12",TEBESSA,"12",TEBESSA
+"307",Dahmouni,دحموني,Dahmouni,"14",TIARET,"14",TIARET,"14",TIARET
+"308",Oued Fodda,وادي الفضة,Oued Fodda,"02",CHLEF,"02",CHLEF,"02",CHLEF
+"309",El Oued,الوادي,El Oued,"39",EL OUED,"39",EL OUED,"39",EL OUED
+"283",Birtouta,بئر توتة,Birtouta,"09",BLIDA,"16",ALGER,"16",ALGER
+"284",Chemora,الشمرة,Chemora,"05",BATNA,"05",BATNA,"05",BATNA
+"285",Maghnia,مغنية,Maghnia,"13",TLEMCEN,"13",TLEMCEN,"13",TLEMCEN
+"314",El Aouana,العوانة,El Aouana,"18",JIJEL,"18",JIJEL,"18",JIJEL
+"286",Foughala,فوغالة,Foughala,"07",BISKRA,"07",BISKRA,"07",BISKRA
+"287",Morsott,مرسط,Morsott,"12",TEBESSA,"12",TEBESSA,"12",TEBESSA
+"288",Tabelbala,تبلبالة,Tabelbala,"08",BECHAR,"52",BENI ABBES,"52",BENI ABBES
+"289",Gdyel,قديل,Gdyel,"31",ORAN,"31",ORAN,"31",ORAN
+"290",Ouled Derradj,أولاد دراج,Ouled Derradj,"28",M'SILA,"28",M'SILA,"28",M'SILA
+"291",Mostaganem,مستغانم,Mostaganem,"27",MOSTAGANEM,"27",MOSTAGANEM,"27",MOSTAGANEM
+"292",Sabra,صبرة,Sabra,"13",TLEMCEN,"13",TLEMCEN,"13",TLEMCEN
+"293",Oued Lili,وادي ليلي,Oued Lili,"14",TIARET,"14",TIARET,"14",TIARET
+"294",Sidi Khaled,سيدي  خالد,Sidi Khaled,"07",BISKRA,"51",OULED DJELLAL,"51",OULED DJELLAL
+"295",Tkout,تكوت,T’Kout,"05",BATNA,"05",BATNA,"05",BATNA
+"296",Tighennif,تيغنيف,Tighennif,"29",MASCARA,"29",MASCARA,"29",MASCARA
+"297",Tassadane Haddada,تسدان حدادة,Tassadane Haddada,"43",MILA,"43",MILA,"43",MILA
+"298",Boualem,بوعلام,Boualem,"32",EL BAYADH,"32",EL BAYADH,"32",EL BAYADH
+"299",Menaa,منعة,Menaa,"05",BATNA,"05",BATNA,"05",BATNA
+"300",Amoucha,عموشة,Amoucha,"19",SETIF,"19",SETIF,"19",SETIF
+"301",Merahna,المراهنة,Merahna,"41",SOUK AHRAS,"41",SOUK AHRAS,"41",SOUK AHRAS
+"310",Aougrout,أوقروت,Aougrout,"01",ADRAR,"49",TIMIMOUN,"49",TIMIMOUN
+"315",Souk Ahras,سوق أهراس,Souk Ahras,"41",SOUK AHRAS,"41",SOUK AHRAS,"41",SOUK AHRAS
+"316",Hammam Dalaa,حمام الضلعة,Hammam Dhalaa,"28",M'SILA,"28",M'SILA,"28",M'SILA
+"317",Sidi Merouane,سيدي مروان,Sidi Mérouane,"43",MILA,"43",MILA,"43",MILA
+"318",Zemmoura,زمورة,Zemmora,"48",RELIZANE,"48",RELIZANE,"48",RELIZANE
+"319",Oued El Abtal,وادي الأبطال,Oued El Abtal,"29",MASCARA,"29",MASCARA,"29",MASCARA
+"320",Oum Ali,أم علي,Oum Ali,"12",TEBESSA,"12",TEBESSA,"12",TEBESSA
+"321",Tablat,تابلاط,Tablat,"26",MEDEA,"26",MEDEA,"26",MEDEA
+"322",Barika,بريكة,Barika,"05",BATNA,"05",BATNA,"60",BARIKA
+"311",Bechar,بشار,Béchar,"08",BECHAR,"08",BECHAR,"08",BECHAR
+"312",El Meghaier,المغير,El M'Ghair,"39",EL OUED,"57",EL M'GHAIR,"57",EL M'GHAIR
+"313",Sfissifa,سفيسيفة,Sfissifa,"45",NAAMA,"45",NAAMA,"45",NAAMA
+"323",Ain Sefra,عين الصفراء,Aïn Sefra,"45",NAAMA,"45",NAAMA,"45",NAAMA
+"324",Ain Temouchent,عين تموشنت,Ain Temouchent,"46",AIN TEMOUCHENT,"46",AIN TEMOUCHENT,"46",AIN TEMOUCHENT
+"325",Kenadsa,القنادسة,Kenadsa,"08",BECHAR,"08",BECHAR,"08",BECHAR
+"338",Ain Tellout,عين تالوت,Aïn Tallout,"13",TLEMCEN,"13",TLEMCEN,"13",TLEMCEN
+"339",Mansourah,منصورة,Mansourah,"13",TLEMCEN,"13",TLEMCEN,"13",TLEMCEN
+"340",Beni Slimane,بني سليمان,Béni Slimane,"26",MEDEA,"26",MEDEA,"26",MEDEA
+"341",Magrane,المقرن,Magrane,"39",EL OUED,"39",EL OUED,"39",EL OUED
+"342",Oulhassa Gheraba,ولهاصة الغرابة,Oulhaça Gherrarba,"46",AIN TEMOUCHENT,"46",AIN TEMOUCHENT,"46",AIN TEMOUCHENT
+"326",Mascara,معسكر,Mascara,"29",MASCARA,"29",MASCARA,"29",MASCARA
+"327",Arris,أريس,Arris,"05",BATNA,"05",BATNA,"05",BATNA
+"343",Ain Touta,عين التوتة,Aïn Touta,"05",BATNA,"05",BATNA,"05",BATNA
+"344",Maatkas,معاتقة,Mâatkas,"15",TIZI OUZOU,"15",TIZI OUZOU,"15",TIZI OUZOU
+"345",Beni Saf,بني صاف,Beni Saf,"46",AIN TEMOUCHENT,"46",AIN TEMOUCHENT,"46",AIN TEMOUCHENT
+"346",Relizane,غليزان,Relizane,"48",RELIZANE,"48",RELIZANE,"48",RELIZANE
+"347",Ain Lechiakh,عين الاشياخ,Aïn Lachiakh,"44",AIN DEFLA,"44",AIN DEFLA,"44",AIN DEFLA
+"348",Hachem,الحشم,El Hachem,"29",MASCARA,"29",MASCARA,"29",MASCARA
+"328",Metlili,متليلي,Metlili,"47",GHARDAIA,"47",GHARDAIA,"47",GHARDAIA
+"329",El Hachimia,الهاشمية,El Hachimia,"10",BOUIRA,"10",BOUIRA,"10",BOUIRA
+"330",Tenes,تنس,Ténès,"02",CHLEF,"02",CHLEF,"02",CHLEF
+"331",Annaba,عنابة,Annaba,"23",ANNABA,"23",ANNABA,"23",ANNABA
+"332",Sidi M'hamed Ben Ali,سيدي أمحمد بن علي,Sidi M'Hamed Ben Ali,"48",RELIZANE,"48",RELIZANE,"48",RELIZANE
+"333",Ain Hessainia,عين حساينية,,"24",GUELMA,"24",GUELMA,"24",GUELMA
+"349",Bordj Menaiel,برج منايل,Bordj Menaiel,"35",BOUMERDES,"35",BOUMERDES,"35",BOUMERDES
+"350",Iferhounene,إفرحونان,Iferhounene,"15",TIZI OUZOU,"15",TIZI OUZOU,"15",TIZI OUZOU
+"351",Nedroma,ندرومة,Nédroma,"13",TLEMCEN,"13",TLEMCEN,"13",TLEMCEN
+"352",Sidi Ali Ben Youb,سيدي علي بن يوب,Sidi Ali Benyoub,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES
+"334",Tizi Rached,تيزي راشد,Tizi Rached,"15",TIZI OUZOU,"15",TIZI OUZOU,"15",TIZI OUZOU
+"335",Bouhatem,بوحاتم,Bouhatem,"43",MILA,"43",MILA,"43",MILA
+"336",El Malabiod,الماء الابيض,El Ma Labiod,"12",TEBESSA,"12",TEBESSA,"12",TEBESSA
+"337",Bordj Emir Abdelkader,برج الأمير عبد القادر,Bordj El Emir Abdelkader,"38",TISSEMSILT,"38",TISSEMSILT,"38",TISSEMSILT
+"353",El Borma,البرمة,El Borma,"30",OUARGLA,"55",TOUGGOURT,"55",TOUGGOURT
+"354",Ksar El Boukhari,قصر البخاري,Ksar El Boukhari,"26",MEDEA,"26",MEDEA,"67",KSAR EL BOUKHARI
+"355",Blida,البليدة,Blida,"09",BLIDA,"09",BLIDA,"09",BLIDA
+"356",Tazrouk,تاظروك,Tazrouk,"11",TAMANRASSET,"11",TAMANRASSET,"11",TAMANRASSET
+"357",Ain Merane,عين مران,Ain Merane,"02",CHLEF,"02",CHLEF,"02",CHLEF
+"358",Djendel,جندل,Djendel,"44",AIN DEFLA,"44",AIN DEFLA,"44",AIN DEFLA
+"359",Ighil Ali,إغيل علي,Ighil Ali,"06",BEJAIA,"06",BEJAIA,"06",BEJAIA
+"360",Bejaia,بجاية,Béjaïa,"06",BEJAIA,"06",BEJAIA,"06",BEJAIA
+"361",Sidi Laadjel,سيدي لعجال,Sidi Ladjel,"17",DJELFA,"17",DJELFA,"65",AIN OUESSARA
+"362",Hassi Messaoud,حاسي مسعود,Hassi Messaoud,"30",OUARGLA,"30",OUARGLA,"30",OUARGLA
+"363",Sidi Aissa,سيدي عيسى,Sidi Aïssa,"28",M'SILA,"28",M'SILA,"28",M'SILA
+"364",El Hamadia,الحمادية,El Hammadia,"34",BORDJ BOU ARRERIDJ,"34",BORDJ BOU ARRERIDJ,"34",BORDJ BOU ARRERIDJ
+"365",Zelfana,زلفانة,Zelfana,"47",GHARDAIA,"47",GHARDAIA,"47",GHARDAIA
+"366",El Khroub,الخروب,El Khroub,"25",CONSTANTINE,"25",CONSTANTINE,"25",CONSTANTINE
+"367",Ras El Ma,راس الماء,Ras El Ma,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES
+"368",Birine,بيرين,Birine,"17",DJELFA,"17",DJELFA,"65",AIN OUESSARA
+"369",Messaad,مسعد,Messaad,"17",DJELFA,"17",DJELFA,"66",MESSAAD
+"370",Ain El Berd,عين البرد,Aïn El Berd,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES
+"371",Hassi Mameche,حاسي ماماش,Hassi Mameche,"27",MOSTAGANEM,"27",MOSTAGANEM,"27",MOSTAGANEM
+"372",Oued Zenati,وادي الزناتي,Oued Zenati,"24",GUELMA,"24",GUELMA,"24",GUELMA
+"373",Oggaz,عقاز,Oggaz,"29",MASCARA,"29",MASCARA,"29",MASCARA
+"374",Chetaibi,شطايبي,Chetaibi,"23",ANNABA,"23",ANNABA,"23",ANNABA
+"399",El Bayadh,البيض,El Bayadh,"32",EL BAYADH,"32",EL BAYADH,"32",EL BAYADH
+"375",Fenoughil,فنوغيل,Fenoughil,"01",ADRAR,"01",ADRAR,"01",ADRAR
+"376",Adekar,أدكار,Adekar,"06",BEJAIA,"06",BEJAIA,"06",BEJAIA
+"377",Oued El Alleug,وادي العلايق,Oued Alleug,"09",BLIDA,"09",BLIDA,"09",BLIDA
+"378",Meskiana,مسكيانة,Meskiana,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI
+"379",Sidi Lakhdar,سيدي لخضر,Sidi Lakhdar,"27",MOSTAGANEM,"27",MOSTAGANEM,"27",MOSTAGANEM
+"380",Illizi,إيليزي,Illizi,"33",ILLIZI,"33",ILLIZI,"33",ILLIZI
+"381",Reguiba,الرقيبة,Reguiba,"39",EL OUED,"39",EL OUED,"39",EL OUED
+"382",Guenzet,قنزات,Guenzet,"19",SETIF,"19",SETIF,"19",SETIF
+"383",Mecheria,المشرية,Méchria,"45",NAAMA,"45",NAAMA,"45",NAAMA
+"384",Oran,وهران,Oran,"31",ORAN,"31",ORAN,"31",ORAN
+"385",Djaafra,جعافرة,Djaafra,"34",BORDJ BOU ARRERIDJ,"34",BORDJ BOU ARRERIDJ,"34",BORDJ BOU ARRERIDJ
+"386",Ouled Djellal,أولاد جلال,Ouled Djellal,"07",BISKRA,"51",OULED DJELLAL,"51",OULED DJELLAL
+"387",Tin Zouatine,تين زواتين,Tinzaouten,"11",TAMANRASSET,"54",IN GUEZZAM,"54",IN GUEZZAM
+"388",Medroussa,مدروسة,Medroussa,"14",TIARET,"14",TIARET,"14",TIARET
+"389",Oum El Bouaghi,أم البواقي,Oum El Bouaghi,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI
+"390",Batna,باتنة,Batna,"05",BATNA,"05",BATNA,"05",BATNA
+"391",Fouka,فوكة,Fouka,"42",TIPAZA,"42",TIPAZA,"42",TIPAZA
+"392",Ain El Melh,عين الملح,Aïn El Meleh,"28",M'SILA,"28",M'SILA,"68",BOU SAADA
+"393",Mila,ميلة,Mila,"43",MILA,"43",MILA,"43",MILA
+"394",Tizi,تيزي,Tizi,"29",MASCARA,"29",MASCARA,"29",MASCARA
+"400",Taougrit,تاوقريت,Taougrite,"02",CHLEF,"02",CHLEF,"02",CHLEF
+"401",Bordj Zemmoura,برج زمورة,Bordj Zemoura,"34",BORDJ BOU ARRERIDJ,"34",BORDJ BOU ARRERIDJ,"34",BORDJ BOU ARRERIDJ
+"395",Taleb Larbi,الطالب العربي,Taleb Larbi,"39",EL OUED,"39",EL OUED,"39",EL OUED
+"396",Rouached,الرواشد,Rouached,"43",MILA,"43",MILA,"43",MILA
+"397",Beni Snous,بني سنوس,Béni Snous,"13",TLEMCEN,"13",TLEMCEN,"13",TLEMCEN
+"402",Dhayet Ben Dhahoua,ضاية بن ضحوة,Dhayet Bendhahoua,"47",GHARDAIA,"47",GHARDAIA,"47",GHARDAIA
+"403",Ain Kechra,عين قشرة,Aïn Kechra,"21",SKIKDA,"21",SKIKDA,"21",SKIKDA
+"398",El Ghicha,الغيشة,El Ghicha,"03",LAGHOUAT,"03",LAGHOUAT,"59",AFLOU
+"404",Tsabit,تسابيت,Tsabit,"01",ADRAR,"01",ADRAR,"01",ADRAR
+"405",Lardjem,لرجام,Lardjem,"38",TISSEMSILT,"38",TISSEMSILT,"38",TISSEMSILT
+"406",Ain Beida,عين البيضاء,Aïn Beïda,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI
+"407",El Idrissia,الادريسية,El Idrissia,"17",DJELFA,"17",DJELFA,"17",DJELFA
+"408",El Menia,المنيعة,El Ménia,"47",GHARDAIA,"58",EL MENIAA,"58",EL MENIAA
+"409",Ouled Fares,أولاد فارس,Ouled Fares,"02",CHLEF,"02",CHLEF,"02",CHLEF
+"410",Ain Fekan,عين فكان,Ain Fekan,"29",MASCARA,"29",MASCARA,"29",MASCARA
+"411",Mouzaia,موزاية,Mouzaia,"09",BLIDA,"09",BLIDA,"09",BLIDA
+"412",Fellaoucene,فلاوسن,Fellaoucène,"13",TLEMCEN,"13",TLEMCEN,"13",TLEMCEN
+"413",Beni Ounif,بني ونيف,Béni Ounif,"08",BECHAR,"08",BECHAR,"08",BECHAR
+"415",El Ouata,الواتة,El Ouatta,"08",BECHAR,"52",BENI ABBES,"52",BENI ABBES
+"416",Besbes,البسباس,Besbes,"36",EL TARF,"36",EL TARF,"36",EL TARF
+"417",Dar Chioukh,دار الشيوخ,Dar Chioukh,"17",DJELFA,"17",DJELFA,"17",DJELFA
+"418",Hammam Righa,حمام ريغة,Hammam Righa,"44",AIN DEFLA,"44",AIN DEFLA,"44",AIN DEFLA
+"419",Kais,قايس,Kais,"40",KHENCHELA,"40",KHENCHELA,"40",KHENCHELA
+"420",Hassi Bahbah,حاسي بحبح,Hassi Bahbah,"17",DJELFA,"17",DJELFA,"17",DJELFA
+"421",Miliana,مليانة,Miliana,"44",AIN DEFLA,"44",AIN DEFLA,"44",AIN DEFLA
+"414",Ifri Ouzellaguene,إفري أوزلاقن,Ouzellaguen,"06",BEJAIA,"06",BEJAIA,"06",BEJAIA
+"422",Oued Morra,وادي مرة,Oued Morra,"03",LAGHOUAT,"03",LAGHOUAT,"59",AFLOU
+"423",Oued Endja,وادي النجاء,Oued Endja,"43",MILA,"43",MILA,"43",MILA
+"424",Bensekrane,بن سكران,Bensekrane,"13",TLEMCEN,"13",TLEMCEN,"13",TLEMCEN
+"425",Azzaba,عزابة,Azzaba,"21",SKIKDA,"21",SKIKDA,"21",SKIKDA
+"426",Ain Kermes,عين كرمس,Aïn Kermes,"14",TIARET,"14",TIARET,"14",TIARET
+"427",Sidi Ali Boussidi,سيدي علي بوسيدي,Sidi Ali Boussidi,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES
+"428",Asla,عسلة,Assela,"45",NAAMA,"45",NAAMA,"45",NAAMA
+"435",Igli,إقلي,Igli,"08",BECHAR,"52",BENI ABBES,"52",BENI ABBES
+"436",Bou Ismail,بواسماعيل,Bou Ismaïl,"42",TIPAZA,"42",TIPAZA,"42",TIPAZA
+"429",Lahmar,لحمر,Lahmar,"08",BECHAR,"08",BECHAR,"08",BECHAR
+"430",Bouzina,بوزينة,Bouzina,"05",BATNA,"05",BATNA,"05",BATNA
+"431",Tigzirt,تيقزيرت,Tigzirt,"15",TIZI OUZOU,"15",TIZI OUZOU,"15",TIZI OUZOU
+"432",Sig,سيق,Sig,"29",MASCARA,"29",MASCARA,"29",MASCARA
+"433",F'kirina,فكيرينة,F'Kirina,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI
+"434",Ain El Hammam,عين الحمام,Aïn El Hammam,"15",TIZI OUZOU,"15",TIZI OUZOU,"15",TIZI OUZOU
+"453",Bouzeguene,بوزقن,Bouzguen,"15",TIZI OUZOU,"15",TIZI OUZOU,"15",TIZI OUZOU
+"454",Ain Djasser,عين جاسر,Ain Djasser,"05",BATNA,"05",BATNA,"05",BATNA
+"455",Ferdjioua,فرجيوة,Ferdjioua,"43",MILA,"43",MILA,"43",MILA
+"456",Oued Tlelat,وادي تليلات,Oued Tlelat,"31",ORAN,"31",ORAN,"31",ORAN
+"457",Djimla,جيملة,Djimla,"18",JIJEL,"18",JIJEL,"18",JIJEL
+"437",Aokas,أوقاس,Aokas,"06",BEJAIA,"06",BEJAIA,"06",BEJAIA
+"438",Ibn Ziad,ابن زياد,Ibn Ziad,"25",CONSTANTINE,"25",CONSTANTINE,"25",CONSTANTINE
+"439",Bouandas,بوعنداس,Bouandas,"19",SETIF,"19",SETIF,"19",SETIF
+"440",Zighoud Youcef,زيغود يوسف,Zighoud Youcef,"25",CONSTANTINE,"25",CONSTANTINE,"25",CONSTANTINE
+"441",Arzew,أرزيو,Arzew,"31",ORAN,"31",ORAN,"31",ORAN
+"530",Hamma Bouziane,حامة بوزيان,Hamma Bouziane,"25",CONSTANTINE,"25",CONSTANTINE,"25",CONSTANTINE
+"442",Berriane,بريان,Berriane,"47",GHARDAIA,"47",GHARDAIA,"47",GHARDAIA
+"443",El Tarf,الطارف,El Tarf,"36",EL TARF,"36",EL TARF,"36",EL TARF
+"444",Meghila,مغيلة,Meghila,"14",TIARET,"14",TIARET,"14",TIARET
+"445",Zeribet El Oued,زريبة الوادي,Zeribet El Oued,"07",BISKRA,"07",BISKRA,"07",BISKRA
+"446",Chemini,شميني,Chemini,"06",BEJAIA,"06",BEJAIA,"06",BEJAIA
+"447",Bouchegouf,بوشقوف,Boucheghouf,"24",GUELMA,"24",GUELMA,"24",GUELMA
+"448",Ain Tedeles,عين تادلس,Aïn Tedles,"27",MOSTAGANEM,"27",MOSTAGANEM,"27",MOSTAGANEM
+"449",Tizi-Ghenif,تيزي غنيف,Tizi Ghenif,"15",TIZI OUZOU,"15",TIZI OUZOU,"15",TIZI OUZOU
+"450",El Attaf,العطاف,El Attaf,"44",AIN DEFLA,"44",AIN DEFLA,"44",AIN DEFLA
+"451",Bouira,البويرة,Bouira,"10",BOUIRA,"10",BOUIRA,"10",BOUIRA
+"452",Draa Ben Khedda,ذراع بن خدة,Draa Ben Khedda,"15",TIZI OUZOU,"15",TIZI OUZOU,"15",TIZI OUZOU
+"458",Aflou,أفلو,Aflou,"03",LAGHOUAT,"03",LAGHOUAT,"59",AFLOU
+"459",Biskra,بسكرة,Biskra,"07",BISKRA,"07",BISKRA,"07",BISKRA
+"460",Bordj Okhriss,برج أوخريص,Bordj Oukhris,"10",BOUIRA,"10",BOUIRA,"10",BOUIRA
+"461",Boukadir,بوقادير,Boukadir,"02",CHLEF,"02",CHLEF,"02",CHLEF
+"462",Telagh,تلاغ,Telagh,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES,"22",SIDI BEL ABBES
+"463",Ain Fares,عين فارس,Aïn Fares,"29",MASCARA,"29",MASCARA,"29",MASCARA
+"464",Achaacha,عشعاشة,Achaacha,"27",MOSTAGANEM,"27",MOSTAGANEM,"27",MOSTAGANEM
+"465",Cherchell,شرشال,Cherchell,"42",TIPAZA,"42",TIPAZA,"42",TIPAZA
+"466",Ain Babouche,عين ببوش,Aïn Babouche,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI
+"467",Bir Bouhouche,بئر بوحوش,Bir Bouhouche,"41",SOUK AHRAS,"41",SOUK AHRAS,"41",SOUK AHRAS
+"468",Lakhdaria,الأخضرية,Lakhdaria,"10",BOUIRA,"10",BOUIRA,"10",BOUIRA
+"469",Mendes,منداس,Mendes,"48",RELIZANE,"48",RELIZANE,"48",RELIZANE
+"470",El Amria,العامرية,El Amria,"46",AIN TEMOUCHENT,"46",AIN TEMOUCHENT,"46",AIN TEMOUCHENT
+"471",Djemila,جميلة,Djemila,"19",SETIF,"19",SETIF,"19",SETIF
+"472",In Ghar,إينغر,In Ghar,"11",TAMANRASSET,"53",IN SALAH,"53",IN SALAH
+"473",Abou El Hassane,أبو الحسن,Abou El Hassen,"02",CHLEF,"02",CHLEF,"02",CHLEF
+"474",Kherrata,خراطة,Kherrata,"06",BEJAIA,"06",BEJAIA,"06",BEJAIA
+"475",Djemorah,جمورة,Djemourah,"07",BISKRA,"07",BISKRA,"61",EL KANTARA
+"476",El Matmar,المطمر,El Matmar,"48",RELIZANE,"48",RELIZANE,"48",RELIZANE
+"477",Djanet,جانت,Djanet,"33",ILLIZI,"56",DJANET,"56",DJANET
+"478",Bechloul,بشلول,Bechloul,"10",BOUIRA,"10",BOUIRA,"10",BOUIRA
+"479",Makouda,ماكودة,Makouda,"15",TIZI OUZOU,"15",TIZI OUZOU,"15",TIZI OUZOU
+"480",Ain Kihel,عين الكيحل,Ain Kihal,"46",AIN TEMOUCHENT,"46",AIN TEMOUCHENT,"46",AIN TEMOUCHENT
+"481",In Salah,عين صالح,In Salah,"11",TAMANRASSET,"53",IN SALAH,"53",IN SALAH
+"482",El Omaria,العمارية,El Omaria,"26",MEDEA,"26",MEDEA,"26",MEDEA
+"483",Reggane,رقان,Reggane,"01",ADRAR,"01",ADRAR,"01",ADRAR
+"484",Terrai Bainen,ترعي باينان,Terrai Bainen,"43",MILA,"43",MILA,"43",MILA
+"485",Rahouia,رحوية,Rahouia,"14",TIARET,"14",TIARET,"14",TIARET
+"486",Isser,يسر,Isser,"35",BOUMERDES,"35",BOUMERDES,"35",BOUMERDES
+"487",Khemisti,خميستي,Khemisti,"38",TISSEMSILT,"38",TISSEMSILT,"38",TISSEMSILT
+"488",Tinerkouk,تنركوك,Tinerkouk,"01",ADRAR,"49",TIMIMOUN,"49",TIMIMOUN
+"489",Heliopolis,هيليوبوليس,Heliopolis,"24",GUELMA,"24",GUELMA,"24",GUELMA
+"490",Ain Beida Harriche,عين البيضاء أحريش,Aïn Beida Harriche,"43",MILA,"43",MILA,"43",MILA
+"491",Cheraga,الشراقة,Cheraga,"42",TIPAZA,"16",ALGER,"16",ALGER
+"492",Tolga,طولقة,Tolga,"07",BISKRA,"07",BISKRA,"07",BISKRA
+"493",Drean,الذرعان,Drean,"36",EL TARF,"36",EL TARF,"36",EL TARF
+"494",Oued Taria,وادي التاغية,Oued Taria,"29",MASCARA,"29",MASCARA,"29",MASCARA
+"495",Ouaguenoun,واقنون,Ouaguenoun,"15",TIZI OUZOU,"15",TIZI OUZOU,"15",TIZI OUZOU
+"496",Sidi Amar,سيدي أعمر,Sidi Amar,"42",TIPAZA,"42",TIPAZA,"42",TIPAZA
+"497",Robbah,الرباح,Robbah,"39",EL OUED,"39",EL OUED,"39",EL OUED
+"498",Ammi Moussa,عمي موسى,Ammi Moussa,"48",RELIZANE,"48",RELIZANE,"48",RELIZANE
+"499",Timezrit,تيمزريت,Timezrit,"06",BEJAIA,"06",BEJAIA,"06",BEJAIA
+"500",Bouzareah,بوزريعة,Bouzaréah,"16",ALGER,"16",ALGER,"16",ALGER
+"501",Thenia,الثنية,Thenia,"35",BOUMERDES,"35",BOUMERDES,"35",BOUMERDES
+"502",Baghlia,بغلية,Baghlia,"35",BOUMERDES,"35",BOUMERDES,"35",BOUMERDES
+"503",Ouled Khodeir,أولاد خضير,Ouled Khoudir,"08",BECHAR,"52",BENI ABBES,"52",BENI ABBES
+"504",Darguina,درقينة,Darguina,"06",BEJAIA,"06",BEJAIA,"06",BEJAIA
+"505",Hassi R'mel,حاسي الرمل,Hassi R’Mel,"03",LAGHOUAT,"03",LAGHOUAT,"03",LAGHOUAT
+"506",Ksar El Hirane,قصر الحيران,Ksar El Hirane,"03",LAGHOUAT,"03",LAGHOUAT,"03",LAGHOUAT
+"507",Guelma,قالمة,Guelma,"24",GUELMA,"24",GUELMA,"24",GUELMA
+"508",M'chedallah,مشد الله,M'Chedallah,"10",BOUIRA,"10",BOUIRA,"10",BOUIRA
+"509",Abadla,العبادلة,Abadla,"08",BECHAR,"08",BECHAR,"08",BECHAR
+"510",Ouled Attia,أولاد عطية,Ouled Attia,"21",SKIKDA,"21",SKIKDA,"21",SKIKDA
+"511",Sebdou,سبدو,Sebdou,"13",TLEMCEN,"13",TLEMCEN,"13",TLEMCEN
+"512",Salah Bey,صالح باي,Salah Bey,"19",SETIF,"19",SETIF,"19",SETIF
+"513",In Amenas,إن أمناس,In Amenas,"33",ILLIZI,"33",ILLIZI,"33",ILLIZI
+"514",Chahbounia,الشهبونية,Chahbounia,"26",MEDEA,"26",MEDEA,"67",KSAR EL BOUKHARI
+"515",Faidh El Botma,فيض البطمة,Faïdh El Botma,"17",DJELFA,"17",DJELFA,"66",MESSAAD
+"516",Guelaat Bousbaa,قلعة بوصبع,Guelaat Bou Sbaa,"24",GUELMA,"24",GUELMA,"24",GUELMA
+"517",Beni Maouche,بني معوش,Beni Maouche,"06",BEJAIA,"06",BEJAIA,"06",BEJAIA
+"518",Medjedel,امجدل,Medjedel,"28",M'SILA,"28",M'SILA,"68",BOU SAADA
+"519",Ain Abid,عين عبيد,Aïn Abid,"25",CONSTANTINE,"25",CONSTANTINE,"25",CONSTANTINE
+"520",Khemis El Khechna,خميس الخشنة,Khemis El Khechna,"35",BOUMERDES,"35",BOUMERDES,"35",BOUMERDES
+"521",Bir El Arch,بئر العرش,Bir El Arch,"19",SETIF,"19",SETIF,"19",SETIF
+"522",Rouiba,الرويبة,Rouiba,"35",BOUMERDES,"16",ALGER,"16",ALGER
+"523",Tamanrasset,تمنراست,Tamanghasset,"11",TAMANRASSET,"11",TAMANRASSET,"11",TAMANRASSET
+"524",Chellalat El Adhaoura,شلالة العذاورة,Chelalet El Adhaoura,"26",MEDEA,"26",MEDEA,"67",KSAR EL BOUKHARI
+"525",Constantine,قسنطينة,Constantine,"25",CONSTANTINE,"25",CONSTANTINE,"25",CONSTANTINE
+"526",Bir Ghbalou,بئر غبالو,Bir Ghbalou,"10",BOUIRA,"10",BOUIRA,"10",BOUIRA
+"527",Rogassa,رقاصة,Rogassa,"32",EL BAYADH,"32",EL BAYADH,"32",EL BAYADH
+"528",Dhalaa,الضلعة,Dhalaa,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI
+"529",Medea,المدية,Médéa,"26",MEDEA,"26",MEDEA,"26",MEDEA
+"531",Laghouat,الأغواط,Laghouat,"03",LAGHOUAT,"03",LAGHOUAT,"03",LAGHOUAT
+"532",Guelb El Kebir,القلب الكبير,El Guelb El Kebir,"26",MEDEA,"26",MEDEA,"26",MEDEA
+"533",Ziamah Mansouriah,زيامة منصورية,Ziama Mansouriah,"18",JIJEL,"18",JIJEL,"18",JIJEL
+"534",Ouamri,عوامري,Ouamri,"26",MEDEA,"26",MEDEA,"26",MEDEA
+"535",Megarine,المقارين,Megarine,"30",OUARGLA,"55",TOUGGOURT,"55",TOUGGOURT
+"536",Sidi Naamane,سيدي نعمان,Sidi Naamane,"26",MEDEA,"26",MEDEA,"26",MEDEA
+"537",Ain Kercha,عين كرشة,Aïn Kercha,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI,"04",OUM EL BOUAGHI
+"538",Bathia,بطحية,Bathia,"44",AIN DEFLA,"44",AIN DEFLA,"44",AIN DEFLA
+"539",El Karimia,الكريمية,El Karimia,"02",CHLEF,"02",CHLEF,"02",CHLEF
+"540",Mechraa Sfa,مشرع الصفا,Mechraa Sfa,"14",TIARET,"14",TIARET,"14",TIARET
+"541",Barbacha,برباشة,Barbacha,"06",BEJAIA,"06",BEJAIA,"06",BEJAIA
+"542",Negrine,نقرين,Negrine,"12",TEBESSA,"12",TEBESSA,"62",BIR EL ATER
+"543",Tindouf,تندوف,Tindouf,"37",TINDOUF,"37",TINDOUF,"37",TINDOUF
+"544",Seggana,سقانة,Seggana,"05",BATNA,"05",BATNA,"60",BARIKA
+"545",Teleghma,التلاغمة,Teleghma,"43",MILA,"43",MILA,"43",MILA
