@@ -4,4 +4,4 @@ Les 1 541 communes, avec tous les rattachements (1984, 2019, 2026), les daïras 
 
 `nomenclature_CdCommune_Gen.csv` : la même table sans géométrie, triée par `CdCommune_Gen_2026`.
 
-![communes_actuelle](docs/img/communes_actuelle.png)
+![communes_alger_actuelles](communes_alger_actuelle.png)
