@@ -4,4 +4,4 @@ Fusion des communes par daïra actuelle (`LbDaira`). Source des daïras : compil
 
 Une daïra est identifiée par le couple (wilaya, nom de daïra) : plusieurs daïras portent le même nom dans des wilayas différentes (par exemple Mansourah, à Tlemcen et à Bordj Bou Arréridj).
 
-![daira_actuelle](docs/img/daira_actuelle.png)
+![daira_alger_actuelle](daira_alger_actuelle.png)
