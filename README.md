@@ -32,7 +32,7 @@ Chaque rattachement a été **vérifié contre le texte du JO** (copies jointes 
 ## 1. Contenu du dépôt
 
 ```
-algeria-admin-boundaries/
+algerie-decoupage-administratif/
 ├── README.md                  ← ce fichier
 ├── CHANGELOG.md               ← historique des corrections
 ├── docs/
