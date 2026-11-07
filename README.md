@@ -52,6 +52,8 @@ Tous les fichiers sont en **UTF-8**, système de coordonnées **WGS 84 (EPSG:432
 
 Les couches de daïras et de wilayas sont obtenues par **fusion des polygones de communes** : elles sont donc parfaitement emboîtées avec la couche communale.
 
+Chaque couche est disponible en GeoPackage, GeoJSON, Shapefile et CSV.
+
 ### Fichiers de contrôle (`controle/`)
 
 | Fichier | Contenu |
