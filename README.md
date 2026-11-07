@@ -326,12 +326,12 @@ Pour toute correction, merci d’indiquer **le texte du JO** qui la justifie (nu
   - Contours des communes : © les contributeurs d'OpenStreetMap — https://www.openstreetmap.org/copyright
   - Noms arabes et daïras actuelles : [othmanus/algeria-cities](https://github.com/othmanus/algeria-cities)
 - **Documentation** : [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)
-- **Code** (`sql/`, `scripts/`) : MIT
+- **Code** (`sql/`) : MIT
 - **Textes du Journal officiel** (`sources/jo/`) : documents publics de la République algérienne démocratique et populaire.
 
 Pour citer ce jeu de données :
 
 ```
 HAMIDAT Oussama, Découpage administratif de l’Algérie — communes, daïras et wilayas
-(1984, 2019, 2026), version 1.0, 2026, https://github.com/oussamidat/algeria-admin-boundaries
+(1984, 2019, 2026), version 1.0, 2026, https://github.com/oussamidat/algerie-decoupage-administratif
 ```
